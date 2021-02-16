@@ -6,4 +6,4 @@
 
 JavaScript | NodeJS | ReactJS | React Native
 
-You can find me at: [LinkedIn](https://www.linkedin.com/in/vinisilvag/) | [Instagram](https://www.instagram.com/vinisilvag/)
+You can find me at: [LinkedIn](https://www.linkedin.com/in/vinisilvag/) and [Instagram](https://www.instagram.com/vinisilvag/)

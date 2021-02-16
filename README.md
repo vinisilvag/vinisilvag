@@ -1,7 +1,7 @@
 ### Hello, I'm Vinicius Gomes! 👋
 
-🎓 I'm a Computer Science student at Universidade Federal de Lavras (UFLA).
-💻 Currently working at Comp Junior, working as a back end developer.
+🎓 I'm a Computer Science student at Universidade Federal de Lavras (UFLA). <br />
+💻 Currently working at Comp Junior, working as a back end developer. <br />
 📚 Always learning more!
 
 JavaScript | NodeJS | ReactJS | React Native

@@ -1,6 +1,6 @@
 ### Hello, I'm Vinicius Gomes! 👋
 
-🎓 I'm a Computer Science student at Universidade Federal de Lavras (UFLA). <br />
+🎓 I'm a Computer Science student at Universidade Federal de Minas Gerais (UFMG). <br />
 💻 Currently working at Comp Junior, working as a back end developer. <br />
 📚 Always learning more!
 

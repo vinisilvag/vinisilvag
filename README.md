@@ -1,6 +1,6 @@
 # Vinicius G.
 
-CS undergraduate student at Universidade Federal de Minas Gerais (UFMG).  
+CS undergraduate student at Federal University of Minas Gerais (UFMG).  
 Undergraduate research student currently working on the [Carcara](https://github.com/ufmg-smite/carcara) proof checker.
 
 Languages: C++, C, Python, TypeScript and currently learning Rust and Julia.

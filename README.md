@@ -3,7 +3,7 @@
 CS undergraduate student at Federal University of Minas Gerais (UFMG).  
 Undergraduate research student currently working on the [Carcara](https://github.com/ufmg-smite/carcara) proof checker.
 
-Languages: C++, C, Python, TypeScript, Rust and currently learning Go and OCaml.
+Programming languages: C++, C, Python, TypeScript, Rust and currently learning Go and Haskell.
 
 LinkedIn: [@vinisilvag](https://linkedin.com/in/vinisilvag)
 
